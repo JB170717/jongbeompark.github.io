@@ -12,4 +12,4 @@
 - 기술: Spring Boot, WebSocket, AWS EC2
 - 역할: 백엔드, 실시간 알림 시스템 개발
 - 링크: [SWS 유저용](https://swsuser.kro.kr)
--       [SWS 기사용](https://swsdriver.kro.kr)
+- 링크: [SWS 기사용](https://swsdriver.kro.kr)
